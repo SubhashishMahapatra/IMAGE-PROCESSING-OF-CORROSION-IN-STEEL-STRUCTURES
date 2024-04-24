@@ -1,6 +1,6 @@
 # IMAGE-PROCESSING-OF-CORROSION-IN-STEEL-STRUCTURES
 
-# To run the project simple follow the below steps:
+# To run the project, simply follow the below steps:
 
 ## Download the zip file and extract it
 ## Open the entire folder in your vs code
