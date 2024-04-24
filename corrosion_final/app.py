@@ -5,7 +5,7 @@ from roboflow import Roboflow
 import numpy as np
 
 # Initialize Roboflow
-rf = Roboflow(api_key="EN5fcoAO4mW2ywgJObzY")
+rf = Roboflow(api_key="YOUR_ROBOFLOW_API_KEY")
 project = rf.workspace().project("dataset-corrosao-faca2")
 model = project.version(1).model
 
